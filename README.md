@@ -154,6 +154,7 @@
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [vintage2k/NordDarkXfwm4](https://github.com/vintage2k/NordDarkXfwm4) - Flat Nord XFWM theme
 - [jotyGill/privacy](https://github.com/jotyGill/privacy) - Diminishing Privacy And Centralization Of Power: The Problem
+- [Mikaela/shell-things](https://github.com/Mikaela/shell-things) - [MIRROR] Dotfiles from time before I knew the word dotfiles, but the name has stuck.
 - [dear-github/dear-github](https://github.com/dear-github/dear-github) - :incoming_envelope: An open letter to GitHub from the maintainers of open source projects
 
 ## PHP 
@@ -242,7 +243,6 @@
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these serv
-- [Mikaela/shell-things](https://github.com/Mikaela/shell-things) - [MIRROR] Dotfiles from time before I knew the word dotfiles, but the name has stuck.
 - [b01t/shellshock](https://github.com/b01t/shellshock) - A spaceshooter game in Bash
 - [EugeneKay/git-jokes](https://github.com/EugeneKay/git-jokes) - Collection of questionably humorous git sayings
 
