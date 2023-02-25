@@ -44,6 +44,7 @@
 
 ## C++ 
 
+- [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [RickdeJager/stegseek](https://github.com/RickdeJager/stegseek) - :zap: Worlds fastest steghide cracker, chewing through millions of passwords per second :zap:
 - [MultiMC/Launcher](https://github.com/MultiMC/Launcher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
