@@ -173,6 +173,7 @@
 
 ## Python 
 
+- [sashs/Ropper](https://github.com/sashs/Ropper) - Display information about files in different file formats and find gadgets to build rop chains for different architectures (x86/x86_64, ARM/ARM64, MIPS, PowerPC, SPARC64). For disassembly ropper uses 
 - [nccgroup/featherduster](https://github.com/nccgroup/featherduster) - An automated, modular cryptanalysis tool; i.e., a Weapon of Math Destruction
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [yoogottamk/prdb](https://github.com/yoogottamk/prdb) - Get access to the python console of a fork of a python process, with all globals, over http, simply by importing this module.
@@ -235,6 +236,7 @@
 
 ## Rust 
 
+- [io12/pwninit](https://github.com/io12/pwninit) - pwninit - automate starting binary exploit challenges
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 
 ## Shell 
