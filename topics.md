@@ -395,7 +395,6 @@
 - [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
 - [DirtyHairy/async-mutex](https://github.com/DirtyHairy/async-mutex) - A mutex for synchronizing async workflows in Javascript
 - [PaperMC/Starlight](https://github.com/PaperMC/Starlight) - Rewrites the light engine to fix lighting performance and lighting errors
-- [td512/re3](https://github.com/td512/re3) - GTA III, Vice City
 - [ScienceAsylum/Cannonball-Problem](https://github.com/ScienceAsylum/Cannonball-Problem) - An exploration of sphere stacking and packing.
 - [LordNoteworthy/al-khaser](https://github.com/LordNoteworthy/al-khaser) - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
 - [rfc1036/whois](https://github.com/rfc1036/whois) - Intelligent WHOIS client
