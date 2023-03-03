@@ -78,6 +78,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [vim](#vim)
+- [vuejs](#vuejs)
 - [web](#web)
 - [windows](#windows)
 
@@ -562,6 +563,10 @@
 ## vim 
 
 - [flide/8VIM](https://github.com/flide/8VIM) - A Text Editor inside a keyboard, drawing it's inspiration from 8pen and Vim.
+
+## vuejs 
+
+- [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple
 
 ## web 
 
