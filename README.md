@@ -235,6 +235,7 @@
 
 ## Rust 
 
+- [quininer/unzrip](https://github.com/quininer/unzrip) - Unzip implementation, support for parallel decompression, automatic detection encoding
 - [io12/pwninit](https://github.com/io12/pwninit) - pwninit - automate starting binary exploit challenges
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 
