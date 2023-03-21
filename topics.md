@@ -16,6 +16,7 @@
 - [bot](#bot)
 - [c](#c)
 - [cli](#cli)
+- [compiler](#compiler)
 - [computer-vision](#computer-vision)
 - [cpp](#cpp)
 - [cybersecurity](#cybersecurity)
@@ -139,6 +140,10 @@
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [hasura/graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
+
+## compiler 
+
+- [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 
 ## computer-vision 
 
@@ -477,6 +482,7 @@
 
 ## python 
 
+- [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [nccgroup/featherduster](https://github.com/nccgroup/featherduster) - An automated, modular cryptanalysis tool; i.e., a Weapon of Math Destruction
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
