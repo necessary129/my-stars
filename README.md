@@ -30,6 +30,7 @@
 ## C 
 
 - [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) - The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
+- [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams. Also known as MediaMTX
 - [akcube/kBLAS](https://github.com/akcube/kBLAS) - 
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [hexchat/hexchat](https://github.com/hexchat/hexchat) - GTK+ IRC client
@@ -75,7 +76,6 @@
 
 ## Go 
 
-- [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams. Also known as MediaMTX
 - [Sorunome/matrix-synchrotron-balancer](https://github.com/Sorunome/matrix-synchrotron-balancer) - 
 - [trickstercache/trickster](https://github.com/trickstercache/trickster) - Open Source HTTP Reverse Proxy Cache and Time Series Dashboard Accelerator
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
