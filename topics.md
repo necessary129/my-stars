@@ -26,6 +26,7 @@
 - [discord](#discord)
 - [django](#django)
 - [docker](#docker)
+- [education](#education)
 - [electron](#electron)
 - [firefox](#firefox)
 - [flask](#flask)
@@ -181,6 +182,10 @@
 ## docker 
 
 - [hasura/gitkube](https://github.com/hasura/gitkube) - Build and deploy docker images to Kubernetes using git push
+
+## education 
+
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 
 ## electron 
 
