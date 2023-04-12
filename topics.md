@@ -115,6 +115,7 @@
 
 ## bash 
 
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [b01t/shellshock](https://github.com/b01t/shellshock) - A spaceshooter game in Bash
@@ -137,6 +138,7 @@
 
 ## cli 
 
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
@@ -287,6 +289,7 @@
 
 ## javascript 
 
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple
@@ -369,6 +372,7 @@
 
 ## nodejs 
 
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [chill117/proxy-lists](https://github.com/chill117/proxy-lists) - Node.js module and CLI tool to get proxies from publicly available proxy lists.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 
@@ -542,6 +546,7 @@
 
 ## shell 
 
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
