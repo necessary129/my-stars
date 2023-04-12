@@ -121,6 +121,7 @@
 
 ## JavaScript 
 
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [DruhanShah/Chess-local](https://github.com/DruhanShah/Chess-local) - A program that simulates an online chess game but with no engine.
 - [AlynxZhou/gnome-shell-extension-inotch](https://github.com/AlynxZhou/gnome-shell-extension-inotch) - Add a useless notch to your screen.
 - [RealPeha/This-Repo-Has-1766-Stars](https://github.com/RealPeha/This-Repo-Has-1766-Stars) - Yes, it's true :purple_heart: [temporarily not working]
