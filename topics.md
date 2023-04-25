@@ -64,6 +64,7 @@
 - [opencv](#opencv)
 - [osint](#osint)
 - [others](#others)
+- [penetration-testing](#penetration-testing)
 - [php](#php)
 - [postgresql](#postgresql)
 - [project-management](#project-management)
@@ -474,6 +475,10 @@
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [github/github-services](https://github.com/github/github-services) - Legacy GitHub Services Integration
 - [jacob1/jacobot](https://github.com/jacob1/jacobot) - jacob1's IRC bot, mostly used for automated TPT moderation
+
+## penetration-testing 
+
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 
 ## php 
 
