@@ -91,6 +91,7 @@
 ## HTML 
 
 - [shahidhk/google-sheets-password-manager](https://github.com/shahidhk/google-sheets-password-manager) - A shared password manager on Google Sheets that can save passwords encrypted with a shared secret. Encryption is done on the client side.
+- [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [caspervonb/toneofsorting](https://github.com/caspervonb/toneofsorting) - Tone of Sorting is an interactive visualisation of sorting algorithms with sound
 - [amirmohammedkk/amirmohammedkk.github.io](https://github.com/amirmohammedkk/amirmohammedkk.github.io) - a fifteen years old boy who loves coding create this.
 - [le4ker/personal-jekyll-theme](https://github.com/le4ker/personal-jekyll-theme) - :bowtie: { Personal } Jekyll theme
@@ -134,7 +135,6 @@
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [hasura/graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
-- [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [xwiki-labs/matrix-stfu](https://github.com/xwiki-labs/matrix-stfu) - STFU - the Spam / Trolling Filtration Utility for matrix
 - [jaredreich/pell](https://github.com/jaredreich/pell) - 📝 the simplest and smallest WYSIWYG text editor for web, with no dependencies
 - [krombel/matrix-js-sdk](https://github.com/krombel/matrix-js-sdk) - Matrix Client-Server SDK for JavaScript
