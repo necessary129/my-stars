@@ -91,7 +91,7 @@
 ## HTML 
 
 - [shahidhk/google-sheets-password-manager](https://github.com/shahidhk/google-sheets-password-manager) - A shared password manager on Google Sheets that can save passwords encrypted with a shared secret. Encryption is done on the client side.
-- [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
+- [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [caspervonb/toneofsorting](https://github.com/caspervonb/toneofsorting) - Tone of Sorting is an interactive visualisation of sorting algorithms with sound
 - [amirmohammedkk/amirmohammedkk.github.io](https://github.com/amirmohammedkk/amirmohammedkk.github.io) - a fifteen years old boy who loves coding create this.
 - [le4ker/personal-jekyll-theme](https://github.com/le4ker/personal-jekyll-theme) - :bowtie: { Personal } Jekyll theme
@@ -173,6 +173,8 @@
 
 ## Python 
 
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it
+- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
 - [sashs/Ropper](https://github.com/sashs/Ropper) - Display information about files in different file formats and find gadgets to build rop chains for different architectures (x86/x86_64, ARM/ARM64, MIPS, PowerPC, SPARC64). For disassembly ropper uses 
 - [nccgroup/featherduster](https://github.com/nccgroup/featherduster) - An automated, modular cryptanalysis tool; i.e., a Weapon of Math Destruction
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
