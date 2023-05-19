@@ -399,6 +399,8 @@
 
 ## others 
 
+- [smol-ai/developer](https://github.com/smol-ai/developer) - with 100k context windows on the way, it's now feasible for every dev to have their own smol developer
+- [Cisco-Talos/pyrebox](https://github.com/Cisco-Talos/pyrebox) - Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation and inspection framework based on QEMU
 - [quininer/unzrip](https://github.com/quininer/unzrip) - Unzip implementation, support for parallel decompression, automatic detection encoding
 - [io12/pwninit](https://github.com/io12/pwninit) - pwninit - automate starting binary exploit challenges
 - [sashs/Ropper](https://github.com/sashs/Ropper) - Display information about files in different file formats and find gadgets to build rop chains for different architectures (x86/x86_64, ARM/ARM64, MIPS, PowerPC, SPARC64). For disassembly ropper uses 
