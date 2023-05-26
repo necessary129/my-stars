@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ai](#ai)
 - [android](#android)
 - [ansible](#ansible)
 - [api](#api)
@@ -87,6 +88,10 @@
 - [vuejs](#vuejs)
 - [web](#web)
 - [windows](#windows)
+
+## ai 
+
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it
 
 ## android 
 
