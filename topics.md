@@ -95,6 +95,7 @@
 
 ## android 
 
+- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
 - [flide/8VIM](https://github.com/flide/8VIM) - A Text Editor inside a keyboard, drawing it's inspiration from 8pen and Vim.
 
 ## ansible 
@@ -242,6 +243,7 @@
 
 ## google 
 
+- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
 - [jotyGill/privacy](https://github.com/jotyGill/privacy) - Diminishing Privacy And Centralization Of Power: The Problem
 
 ## google-cloud 
