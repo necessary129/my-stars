@@ -108,7 +108,7 @@
 ## Java 
 
 - [astei/krypton](https://github.com/astei/krypton) - A Fabric mod that optimizes the Minecraft networking stack and entity tracker.
-- [flide/8VIM](https://github.com/flide/8VIM) - A Text Editor inside a keyboard, drawing it's inspiration from 8pen and Vim.
+- [8VIM/8VIM](https://github.com/8VIM/8VIM) - A Text Editor inside a keyboard, drawing it's inspiration from 8pen and Vim.
 - [CaffeineMC/hydrogen-fabric](https://github.com/CaffeineMC/hydrogen-fabric) - Things of which are too dangerous to put in Lithium.
 - [CaffeineMC/phosphor-fabric](https://github.com/CaffeineMC/phosphor-fabric) - A Fabric mod designed to dramatically improve the performance of Minecraft's lighting engine while fixing many bugs
 - [PaperMC/Starlight](https://github.com/PaperMC/Starlight) - Rewrites the light engine to fix lighting performance and lighting errors
