@@ -64,6 +64,7 @@
 - [mysql](#mysql)
 - [nodejs](#nodejs)
 - [opencv](#opencv)
+- [opengl](#opengl)
 - [osint](#osint)
 - [others](#others)
 - [penetration-testing](#penetration-testing)
@@ -396,6 +397,10 @@
 
 - [abhiTronix/vidgear](https://github.com/abhiTronix/vidgear) - A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features :fire:
 - [Hironsan/BossSensor](https://github.com/Hironsan/BossSensor) - Hide screen when boss is approaching.
+
+## opengl 
+
+- [CaffeineMC/sodium-fabric](https://github.com/CaffeineMC/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter
 
 ## osint 
 
