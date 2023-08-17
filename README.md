@@ -271,7 +271,7 @@
 
 ## TypeScript 
 
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your Second Brain powered by Generative AI 🧠 Dump all your files and chat with it  ( GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...) & Embeddings
 - [JordanPawlett/cards-against-formality-services](https://github.com/JordanPawlett/cards-against-formality-services) - This repository creates a separation of concerns, for the backend microservices part of the application.
 - [JordanPawlett/cards-against-formality-pwa](https://github.com/JordanPawlett/cards-against-formality-pwa) - This repository creates a separation of concerns, for the front-end PWA part of the application.
 - [DirtyHairy/async-mutex](https://github.com/DirtyHairy/async-mutex) - A mutex for synchronizing async workflows in Javascript
