@@ -188,7 +188,7 @@
 - [nccgroup/featherduster](https://github.com/nccgroup/featherduster) - An automated, modular cryptanalysis tool; i.e., a Weapon of Math Destruction
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [yoogottamk/prdb](https://github.com/yoogottamk/prdb) - Get access to the python console of a fork of a python process, with all globals, over http, simply by importing this module.
-- [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
+- [bloomberg/memray](https://github.com/bloomberg/memray) - The endgame Python memory profiler
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [jesopo/irctokens](https://github.com/jesopo/irctokens) - RFC1459 and IRCv3 protocol tokeniser library for python3
 - [jesopo/ircstates](https://github.com/jesopo/ircstates) - sans-I/O IRC session state parsing library
