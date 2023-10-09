@@ -449,7 +449,7 @@
 - [gsuberland/amazon_3b1b_review_confidence](https://github.com/gsuberland/amazon_3b1b_review_confidence) - A user script that computes confidence percentages on Amazon reviews as per https://www.youtube.com/watch?v=8idr1WZ1A7Q
 - [malwaredllc/bamf](https://github.com/malwaredllc/bamf) - A tool which utilizes Shodan to detect vulnerable IoT devices.
 - [malwaredllc/byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
-- [Shizmob/pydle](https://github.com/Shizmob/pydle) - An IRCv3-compliant Python 3 IRC library.
+- [shizmob/pydle](https://github.com/shizmob/pydle) - An IRCv3-compliant Python 3 IRC library.
 - [bitbot-irc/bitbot-modules](https://github.com/bitbot-irc/bitbot-modules) - Community repository of vaguely useful plugins that are too niche for mainline BitBot
 - [chtd/psycopg2cffi](https://github.com/chtd/psycopg2cffi) - Port to cffi with some speed improvements
 - [Spydar007/Houdini](https://github.com/Spydar007/Houdini) - 
