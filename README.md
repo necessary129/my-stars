@@ -201,7 +201,7 @@
 - [cisagov/CHIRP](https://github.com/cisagov/CHIRP) - A DFIR tool written in Python.
 - [malwaredllc/bamf](https://github.com/malwaredllc/bamf) - A tool which utilizes Shodan to detect vulnerable IoT devices.
 - [malwaredllc/byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
-- [Shizmob/pydle](https://github.com/Shizmob/pydle) - An IRCv3-compliant Python 3 IRC library.
+- [shizmob/pydle](https://github.com/shizmob/pydle) - An IRCv3-compliant Python 3 IRC library.
 - [bitbot-irc/bitbot-modules](https://github.com/bitbot-irc/bitbot-modules) - Community repository of vaguely useful plugins that are too niche for mainline BitBot
 - [bitbot-irc/bitbot](https://github.com/bitbot-irc/bitbot) - https://bitbot.dev | Python3 event-driven modular IRCv3 bot 🤖
 - [progval/Limnoria](https://github.com/progval/Limnoria) - A robust, full-featured, and user/programmer-friendly Python IRC bot, with many existing plugins. Successor of the well-known Supybot.
