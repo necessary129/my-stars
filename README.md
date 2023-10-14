@@ -256,6 +256,7 @@
 
 ## Shell 
 
+- [faithanalog/bashyll](https://github.com/faithanalog/bashyll) - Static blog generator written with bash and pandoc. Small pages, fast load times and cachable content.
 - [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
 - [Fusl/tinc-deploy](https://github.com/Fusl/tinc-deploy) - Simple script for automatically deploying a tinc VPN network - Uses flat files as configuration sources
 - [dolegi/lockdown.sh](https://github.com/dolegi/lockdown.sh) - Lockdown your linux install. The simple zero config linux hardening script
