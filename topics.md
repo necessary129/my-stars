@@ -345,6 +345,7 @@
 
 ## linux 
 
+- [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework
 - [hexchat/hexchat](https://github.com/hexchat/hexchat) - GTK+ IRC client
 - [dolegi/lockdown.sh](https://github.com/dolegi/lockdown.sh) - Lockdown your linux install. The simple zero config linux hardening script
@@ -414,6 +415,7 @@
 
 ## others 
 
+- [jart/pledge](https://github.com/jart/pledge) - OpenBSD APIs ported to Linux userspace using SECCOMP BPF and Landlock LSM
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [faithanalog/bashyll](https://github.com/faithanalog/bashyll) - Static blog generator written with bash and pandoc. Small pages, fast load times and cachable content.
 - [ignis-sec/Pwdb-Public](https://github.com/ignis-sec/Pwdb-Public) - A collection of all the data i could extract from 1 billion leaked credentials from internet.
@@ -648,6 +650,7 @@
 
 ## windows 
 
+- [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [hexchat/hexchat](https://github.com/hexchat/hexchat) - GTK+ IRC client
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
