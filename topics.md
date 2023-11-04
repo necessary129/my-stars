@@ -437,7 +437,7 @@
 - [akcube/kBLAS](https://github.com/akcube/kBLAS) - 
 - [vintage2k/NordDarkXfwm4](https://github.com/vintage2k/NordDarkXfwm4) - Flat Nord XFWM theme
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
-- [RealPeha/This-Repo-Has-1751-Stars](https://github.com/RealPeha/This-Repo-Has-1751-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1752-Stars](https://github.com/RealPeha/This-Repo-Has-1752-Stars) - Yes, it's true :purple_heart:
 - [JordanPawlett/cards-against-formality-services](https://github.com/JordanPawlett/cards-against-formality-services) - This repository creates a separation of concerns, for the backend microservices part of the application.
 - [JordanPawlett/cards-against-formality-pwa](https://github.com/JordanPawlett/cards-against-formality-pwa) - This repository creates a separation of concerns, for the front-end PWA part of the application.
 - [astei/krypton](https://github.com/astei/krypton) - A Fabric mod that optimizes the Minecraft networking stack and entity tracker.
@@ -507,7 +507,7 @@
 - [hexchat/hexchat-addons](https://github.com/hexchat/hexchat-addons) - Plugins and scripts made for HexChat
 - [ajalt/fuckitpy](https://github.com/ajalt/fuckitpy) - The Python error steamroller.
 - [jimloco/Csocket](https://github.com/jimloco/Csocket) - Asynchronous TCP socket classes
-- [le4ker/personal-jekyll-theme](https://github.com/le4ker/personal-jekyll-theme) - :bowtie: { Personal } Jekyll theme
+- [le4ker/personal-jekyll-theme](https://github.com/le4ker/personal-jekyll-theme) - { Personal } Jekyll theme
 - [camsong/You-Dont-Need-jQuery](https://github.com/camsong/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [github/github-services](https://github.com/github/github-services) - Legacy GitHub Services Integration
