@@ -103,7 +103,7 @@
 - [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [caspervonb/toneofsorting](https://github.com/caspervonb/toneofsorting) - Tone of Sorting is an interactive visualisation of sorting algorithms with sound
 - [amirmohammedkk/amirmohammedkk.github.io](https://github.com/amirmohammedkk/amirmohammedkk.github.io) - a fifteen years old boy who loves coding create this.
-- [le4ker/personal-jekyll-theme](https://github.com/le4ker/personal-jekyll-theme) - :bowtie: { Personal } Jekyll theme
+- [le4ker/personal-jekyll-theme](https://github.com/le4ker/personal-jekyll-theme) - { Personal } Jekyll theme
 
 ## Haskell 
 
@@ -133,7 +133,7 @@
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [DruhanShah/Chess-local](https://github.com/DruhanShah/Chess-local) - A program that simulates an online chess game but with no engine.
 - [AlynxZhou/gnome-shell-extension-inotch](https://github.com/AlynxZhou/gnome-shell-extension-inotch) - Add a useless notch to your screen.
-- [RealPeha/This-Repo-Has-1751-Stars](https://github.com/RealPeha/This-Repo-Has-1751-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1752-Stars](https://github.com/RealPeha/This-Repo-Has-1752-Stars) - Yes, it's true :purple_heart:
 - [Opensource-IIITH/Discord-CAS](https://github.com/Opensource-IIITH/Discord-CAS) - Tool for user verification via CAS on Discord servers.
 - [chill117/proxy-lists](https://github.com/chill117/proxy-lists) - Node.js module and CLI tool to get proxies from publicly available proxy lists.
 - [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
