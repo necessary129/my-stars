@@ -94,7 +94,7 @@
 
 ## ai 
 
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - An Opensource alternative to OpenAI GPTs 🧠 Your Second Brain supercharged by Generative AI 🧠  Your personal assistant on your files & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs t
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠  Alternative to OpenAI GPTs & Your personal assistant to chat with your files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, Vertex
 
 ## android 
 
@@ -149,7 +149,7 @@
 
 ## chatgpt 
 
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - An Opensource alternative to OpenAI GPTs 🧠 Your Second Brain supercharged by Generative AI 🧠  Your personal assistant on your files & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs t
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠  Alternative to OpenAI GPTs & Your personal assistant to chat with your files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, Vertex
 
 ## cli 
 
@@ -437,7 +437,7 @@
 - [akcube/kBLAS](https://github.com/akcube/kBLAS) - 
 - [vintage2k/NordDarkXfwm4](https://github.com/vintage2k/NordDarkXfwm4) - Flat Nord XFWM theme
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
-- [RealPeha/This-Repo-Has-1753-Stars](https://github.com/RealPeha/This-Repo-Has-1753-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1755-Stars](https://github.com/RealPeha/This-Repo-Has-1755-Stars) - Yes, it's true :purple_heart:
 - [JordanPawlett/cards-against-formality-services](https://github.com/JordanPawlett/cards-against-formality-services) - This repository creates a separation of concerns, for the backend microservices part of the application.
 - [JordanPawlett/cards-against-formality-pwa](https://github.com/JordanPawlett/cards-against-formality-pwa) - This repository creates a separation of concerns, for the front-end PWA part of the application.
 - [astei/krypton](https://github.com/astei/krypton) - A Fabric mod that optimizes the Minecraft networking stack and entity tracker.
@@ -470,7 +470,7 @@
 - [skulpt/skulpt](https://github.com/skulpt/skulpt) - Skulpt is a Javascript implementation of the Python programming language
 - [swarmsim/swarm](https://github.com/swarmsim/swarm) - Swarm Simulator, an idle game with lots of bugs.
 - [thoj/go-ircevent](https://github.com/thoj/go-ircevent) - Event based IRC client library in Go (golang)
-- [kryptco/kr](https://github.com/kryptco/kr) - A dev tool for SSH auth + Git commit/tag signing using a key stored in Krypton.
+- [kryptco/kr](https://github.com/kryptco/kr) - DEPRECATED A dev tool for SSH auth + Git commit/tag signing using a key stored in Krypton.
 - [cjdelisle/cjdns](https://github.com/cjdelisle/cjdns) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
 - [cyanharlow/purecss-francine](https://github.com/cyanharlow/purecss-francine) - HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS.
 - [jevolk/SPQF](https://github.com/jevolk/SPQF) - Senate & People of freenode - Democratic Channel Management System.
