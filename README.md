@@ -133,7 +133,7 @@
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [DruhanShah/Chess-local](https://github.com/DruhanShah/Chess-local) - A program that simulates an online chess game but with no engine.
 - [AlynxZhou/gnome-shell-extension-inotch](https://github.com/AlynxZhou/gnome-shell-extension-inotch) - Add a useless notch to your screen.
-- [RealPeha/This-Repo-Has-1755-Stars](https://github.com/RealPeha/This-Repo-Has-1755-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1757-Stars](https://github.com/RealPeha/This-Repo-Has-1757-Stars) - Yes, it's true :purple_heart:
 - [Opensource-IIITH/Discord-CAS](https://github.com/Opensource-IIITH/Discord-CAS) - Tool for user verification via CAS on Discord servers.
 - [chill117/proxy-lists](https://github.com/chill117/proxy-lists) - Node.js module and CLI tool to get proxies from publicly available proxy lists.
 - [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
