@@ -134,7 +134,7 @@
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [DruhanShah/Chess-local](https://github.com/DruhanShah/Chess-local) - A program that simulates an online chess game but with no engine.
 - [AlynxZhou/gnome-shell-extension-inotch](https://github.com/AlynxZhou/gnome-shell-extension-inotch) - Add a useless notch to your screen.
-- [RealPeha/This-Repo-Has-1757-Stars](https://github.com/RealPeha/This-Repo-Has-1757-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1755-Stars](https://github.com/RealPeha/This-Repo-Has-1755-Stars) - Yes, it's true :purple_heart:
 - [Opensource-IIITH/Discord-CAS](https://github.com/Opensource-IIITH/Discord-CAS) - Tool for user verification via CAS on Discord servers.
 - [chill117/proxy-lists](https://github.com/chill117/proxy-lists) - Node.js module and CLI tool to get proxies from publicly available proxy lists.
 - [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
@@ -276,7 +276,7 @@
 
 ## TypeScript 
 
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant ⚡️🤖 Chat with your files (PDF, CSV, ...)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share wi
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [JordanPawlett/cards-against-formality-services](https://github.com/JordanPawlett/cards-against-formality-services) - This repository creates a separation of concerns, for the backend microservices part of the application.
 - [JordanPawlett/cards-against-formality-pwa](https://github.com/JordanPawlett/cards-against-formality-pwa) - This repository creates a separation of concerns, for the front-end PWA part of the application.
 - [DirtyHairy/async-mutex](https://github.com/DirtyHairy/async-mutex) - A mutex for synchronizing async workflows in Javascript
