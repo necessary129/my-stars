@@ -71,6 +71,7 @@
 - [pentesting](#pentesting)
 - [php](#php)
 - [postgresql](#postgresql)
+- [privacy](#privacy)
 - [project-management](#project-management)
 - [python](#python)
 - [python3](#python3)
@@ -533,6 +534,10 @@
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
 - [dimitri/pgloader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command!
+
+## privacy 
+
+- [jotyGill/privacy](https://github.com/jotyGill/privacy) - Diminishing Privacy And Centralization Of Power: The Problem
 
 ## project-management 
 
