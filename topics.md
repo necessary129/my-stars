@@ -49,6 +49,8 @@
 - [http](#http)
 - [java](#java)
 - [javascript](#javascript)
+- [jekyll](#jekyll)
+- [jekyll-theme](#jekyll-theme)
 - [jquery](#jquery)
 - [json](#json)
 - [koa](#koa)
@@ -332,6 +334,14 @@
 - [jaredreich/pell](https://github.com/jaredreich/pell) - 📝 the simplest and smallest WYSIWYG text editor for web, with no dependencies
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 
+## jekyll 
+
+- [le4ker/personal-jekyll-theme](https://github.com/le4ker/personal-jekyll-theme) - { Personal } Jekyll theme
+
+## jekyll-theme 
+
+- [le4ker/personal-jekyll-theme](https://github.com/le4ker/personal-jekyll-theme) - { Personal } Jekyll theme
+
 ## jquery 
 
 - [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple
@@ -531,7 +541,6 @@
 - [hexchat/hexchat-addons](https://github.com/hexchat/hexchat-addons) - Plugins and scripts made for HexChat
 - [ajalt/fuckitpy](https://github.com/ajalt/fuckitpy) - The Python error steamroller.
 - [jimloco/Csocket](https://github.com/jimloco/Csocket) - Asynchronous TCP socket classes
-- [le4ker/personal-jekyll-theme](https://github.com/le4ker/personal-jekyll-theme) - { Personal } Jekyll theme
 - [camsong/You-Dont-Need-jQuery](https://github.com/camsong/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [github/github-services](https://github.com/github/github-services) - Legacy GitHub Services Integration
