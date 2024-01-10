@@ -146,7 +146,6 @@
 
 ## bot 
 
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [lykoss/lykos](https://github.com/lykoss/lykos) - Werewolf, the popular detective/social party game (a theme of Mafia)
 
 ## c 
