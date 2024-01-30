@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Assembly](#assembly)
 - [C](#c)
 - [C++](#c++)
 - [CSS](#css)
@@ -28,6 +29,10 @@
 - [Text](#text)
 - [TypeScript](#typescript)
 - [Vue](#vue)
+
+## Assembly 
+
+- [wkjagt/apple2_pendulum_clock](https://github.com/wkjagt/apple2_pendulum_clock) - Apple 2 full screen clock driven by the pendulum of my wall clock
 
 ## C 
 
