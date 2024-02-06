@@ -178,7 +178,7 @@
 
 ## cpp 
 
-- [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux and Windows
+- [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux, Windows and macOS
 - [matrix-construct/construct](https://github.com/matrix-construct/construct) - This is The Construct
 - [wxFormBuilder/wxFormBuilder](https://github.com/wxFormBuilder/wxFormBuilder) - A wxWidgets GUI Builder
 
@@ -376,7 +376,7 @@
 
 ## linux 
 
-- [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux and Windows
+- [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux, Windows and macOS
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework
 - [hexchat/hexchat](https://github.com/hexchat/hexchat) - GTK+ IRC client
@@ -395,6 +395,7 @@
 
 ## macos 
 
+- [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux, Windows and macOS
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 
@@ -711,7 +712,7 @@
 
 ## windows 
 
-- [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux and Windows
+- [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux, Windows and macOS
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [hexchat/hexchat](https://github.com/hexchat/hexchat) - GTK+ IRC client
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
