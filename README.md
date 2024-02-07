@@ -274,7 +274,7 @@
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these serv
-- [b01t/shellshock](https://github.com/b01t/shellshock) - A spaceshooter game in Bash
+- [PacAnimal/shellshock](https://github.com/PacAnimal/shellshock) - A spaceshooter game in Bash
 - [EugeneKay/git-jokes](https://github.com/EugeneKay/git-jokes) - Collection of questionably humorous git sayings
 
 ## Text 
