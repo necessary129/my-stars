@@ -138,7 +138,7 @@
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
-- [b01t/shellshock](https://github.com/b01t/shellshock) - A spaceshooter game in Bash
+- [PacAnimal/shellshock](https://github.com/PacAnimal/shellshock) - A spaceshooter game in Bash
 
 ## bootstrap 
 
@@ -236,7 +236,7 @@
 ## game 
 
 - [Lattyware/massivedecks](https://github.com/Lattyware/massivedecks) - A comedy party game for PC, mobile & chromecast.
-- [b01t/shellshock](https://github.com/b01t/shellshock) - A spaceshooter game in Bash
+- [PacAnimal/shellshock](https://github.com/PacAnimal/shellshock) - A spaceshooter game in Bash
 - [lykoss/lykos](https://github.com/lykoss/lykos) - Werewolf, the popular detective/social party game (a theme of Mafia)
 
 ## git 
