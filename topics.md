@@ -447,6 +447,7 @@
 
 ## others 
 
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 - [wkjagt/apple2_pendulum_clock](https://github.com/wkjagt/apple2_pendulum_clock) - Apple 2 full screen clock driven by the pendulum of my wall clock
 - [RyanBrewer317/SaberVM](https://github.com/RyanBrewer317/SaberVM) - 
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
@@ -470,7 +471,7 @@
 - [akcube/kBLAS](https://github.com/akcube/kBLAS) - 
 - [vintaqe/NordDarkXfwm4](https://github.com/vintaqe/NordDarkXfwm4) - Flat Nord XFWM theme
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
-- [RealPeha/This-Repo-Has-1756-Stars](https://github.com/RealPeha/This-Repo-Has-1756-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1748-Stars](https://github.com/RealPeha/This-Repo-Has-1748-Stars) - Yes, it's true :purple_heart:
 - [JordanPawlett/cards-against-formality-services](https://github.com/JordanPawlett/cards-against-formality-services) - This repository creates a separation of concerns, for the backend microservices part of the application.
 - [JordanPawlett/cards-against-formality-pwa](https://github.com/JordanPawlett/cards-against-formality-pwa) - This repository creates a separation of concerns, for the front-end PWA part of the application.
 - [astei/krypton](https://github.com/astei/krypton) - A Fabric mod that optimizes the Minecraft networking stack and entity tracker.
