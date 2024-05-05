@@ -218,7 +218,7 @@
 - [shizmob/pydle](https://github.com/shizmob/pydle) - An IRCv3-compliant Python 3 IRC library.
 - [bitbot-irc/bitbot-modules](https://github.com/bitbot-irc/bitbot-modules) - Community repository of vaguely useful plugins that are too niche for mainline BitBot
 - [bitbot-irc/bitbot](https://github.com/bitbot-irc/bitbot) - https://bitbot.dev | Python3 event-driven modular IRCv3 bot 🤖
-- [progval/Limnoria](https://github.com/progval/Limnoria) - A robust, full-featured, and user/programmer-friendly Python IRC bot, with many existing plugins. Successor of the well-known Supybot.
+- [progval/Limnoria](https://github.com/progval/Limnoria) - A robust, full-featured, and user/programmer-friendly Python IRC bot, with many existing plugins.
 - [chtd/psycopg2cffi](https://github.com/chtd/psycopg2cffi) - Port to cffi with some speed improvements
 - [Spydar007/Houdini](https://github.com/Spydar007/Houdini) - 
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
