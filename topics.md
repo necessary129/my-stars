@@ -449,7 +449,7 @@
 
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 - [wkjagt/apple2_pendulum_clock](https://github.com/wkjagt/apple2_pendulum_clock) - Apple 2 full screen clock driven by the pendulum of my wall clock
-- [RyanBrewer317/SaberVM](https://github.com/RyanBrewer317/SaberVM) - 
+- [SaberVM/SaberVM](https://github.com/SaberVM/SaberVM) - 
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [jart/pledge](https://github.com/jart/pledge) - OpenBSD APIs ported to Linux userspace using SECCOMP BPF and Landlock LSM
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
