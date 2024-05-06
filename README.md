@@ -261,7 +261,7 @@
 
 ## Rust 
 
-- [RyanBrewer317/SaberVM](https://github.com/RyanBrewer317/SaberVM) - 
+- [SaberVM/SaberVM](https://github.com/SaberVM/SaberVM) - 
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
 - [simd-lite/simd-json](https://github.com/simd-lite/simd-json) - Rust port of simdjson
 - [woodruffw/steg86](https://github.com/woodruffw/steg86) - Hiding messages in x86 programs using semantic duals
