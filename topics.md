@@ -28,6 +28,7 @@
 - [discord](#discord)
 - [django](#django)
 - [docker](#docker)
+- [dotfiles](#dotfiles)
 - [electron](#electron)
 - [firefox](#firefox)
 - [flask](#flask)
@@ -213,6 +214,11 @@
 
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
 - [hasura/gitkube](https://github.com/hasura/gitkube) - Build and deploy docker images to Kubernetes using git push
+
+## dotfiles 
+
+- [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
+- [Mikaela/shell-things](https://github.com/Mikaela/shell-things) - [MIRROR] Dotfiles from time before I knew the word dotfiles, but the name has stuck.
 
 ## electron 
 
@@ -480,7 +486,7 @@
 - [akcube/kBLAS](https://github.com/akcube/kBLAS) - 
 - [vintaqe/NordDarkXfwm4](https://github.com/vintaqe/NordDarkXfwm4) - Flat Nord XFWM theme
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
-- [RealPeha/This-Repo-Has-1749-Stars](https://github.com/RealPeha/This-Repo-Has-1749-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1750-Stars](https://github.com/RealPeha/This-Repo-Has-1750-Stars) - Yes, it's true :purple_heart:
 - [JordanPawlett/cards-against-formality-services](https://github.com/JordanPawlett/cards-against-formality-services) - This repository creates a separation of concerns, for the backend microservices part of the application.
 - [JordanPawlett/cards-against-formality-pwa](https://github.com/JordanPawlett/cards-against-formality-pwa) - This repository creates a separation of concerns, for the front-end PWA part of the application.
 - [astei/krypton](https://github.com/astei/krypton) - A Fabric mod that optimizes the Minecraft networking stack and entity tracker.
@@ -527,7 +533,6 @@
 - [startcodein/IndicSoundex](https://github.com/startcodein/IndicSoundex) - Indian language soundex php package based on Santhosh Thottingal's algorithm.
 - [Chaosthebot/Chaos](https://github.com/Chaosthebot/Chaos) - A social coding experiment that updates its own code democratically.
 - [LeoIannacone/npm2deb](https://github.com/LeoIannacone/npm2deb) - tool to help debianize Node.js modules
-- [Mikaela/shell-things](https://github.com/Mikaela/shell-things) - [MIRROR] Dotfiles from time before I knew the word dotfiles, but the name has stuck.
 - [mammon-ircd/ircmatch](https://github.com/mammon-ircd/ircmatch) - python extension for fast IRC mask matching and collapsing
 - [amirmohammedkk/amirmohammedkk.github.io](https://github.com/amirmohammedkk/amirmohammedkk.github.io) - a fifteen years old boy who loves coding create this.
 - [andrewtryder/WolframAlpha](https://github.com/andrewtryder/WolframAlpha) - Limnoria / Supybot plugin to interface with Wolfram Alpha and display results on IRC.
