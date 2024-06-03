@@ -68,7 +68,6 @@
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
 - [mysql](#mysql)
-- [nextjs](#nextjs)
 - [nodejs](#nodejs)
 - [opencv](#opencv)
 - [opengl](#opengl)
@@ -436,10 +435,6 @@
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [dimitri/pgloader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command!
 
-## nextjs 
-
-- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
-
 ## nodejs 
 
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -630,6 +625,7 @@
 ## react 
 
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
+- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
 
 ## rest-api 
 
