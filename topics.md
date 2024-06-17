@@ -21,6 +21,7 @@
 - [compiler](#compiler)
 - [computer-vision](#computer-vision)
 - [cpp](#cpp)
+- [cryptography](#cryptography)
 - [cybersecurity](#cybersecurity)
 - [database](#database)
 - [deep-learning](#deep-learning)
@@ -182,6 +183,12 @@
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux, Windows and macOS
 - [matrix-construct/construct](https://github.com/matrix-construct/construct) - This is The Construct
 - [wxFormBuilder/wxFormBuilder](https://github.com/wxFormBuilder/wxFormBuilder) - A wxWidgets GUI Builder
+
+## cryptography 
+
+- [nccgroup/featherduster](https://github.com/nccgroup/featherduster) - An automated, modular cryptanalysis tool; i.e., a Weapon of Math Destruction
+- [cjdelisle/cjdns](https://github.com/cjdelisle/cjdns) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
+- [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 
 ## cybersecurity 
 
@@ -516,7 +523,6 @@
 - [swarmsim/swarm](https://github.com/swarmsim/swarm) - Swarm Simulator, an idle game with lots of bugs.
 - [thoj/go-ircevent](https://github.com/thoj/go-ircevent) - Event based IRC client library in Go (golang)
 - [kryptco/kr](https://github.com/kryptco/kr) - DEPRECATED A dev tool for SSH auth + Git commit/tag signing using a key stored in Krypton.
-- [cjdelisle/cjdns](https://github.com/cjdelisle/cjdns) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
 - [cyanharlow/purecss-francine](https://github.com/cyanharlow/purecss-francine) - HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS.
 - [jevolk/SPQF](https://github.com/jevolk/SPQF) - Senate & People of freenode - Democratic Channel Management System.
 - [xwiki-labs/synapse_scripts](https://github.com/xwiki-labs/synapse_scripts) - Tools for maintaining a matrix synapse chat server // SEEKING MAINTAINERS
@@ -552,7 +558,6 @@
 - [ajalt/fuckitpy](https://github.com/ajalt/fuckitpy) - The Python error steamroller.
 - [jimloco/Csocket](https://github.com/jimloco/Csocket) - Asynchronous TCP socket classes
 - [camsong/You-Dont-Need-jQuery](https://github.com/camsong/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
-- [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [github/github-services](https://github.com/github/github-services) - Legacy GitHub Services Integration
 - [jacob1/jacobot](https://github.com/jacob1/jacobot) - jacob1's IRC bot, mostly used for automated TPT moderation
 
