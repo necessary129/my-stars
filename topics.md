@@ -193,6 +193,7 @@
 ## cybersecurity 
 
 - [cisagov/CHIRP](https://github.com/cisagov/CHIRP) - A DFIR tool written in Python.
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 
 ## database 
 
@@ -413,7 +414,6 @@
 ## macos 
 
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux, Windows and macOS
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 
 ## minecraft 
@@ -568,6 +568,7 @@
 ## pentesting 
 
 - [RickdeJager/stegseek](https://github.com/RickdeJager/stegseek) - :zap: Worlds fastest steghide cracker, chewing through millions of passwords per second :zap:
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 
 ## php 
 
@@ -727,7 +728,6 @@
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux, Windows and macOS
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [hexchat/hexchat](https://github.com/hexchat/hexchat) - GTK+ IRC client
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 
 
