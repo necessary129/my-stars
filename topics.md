@@ -15,6 +15,7 @@
 - [bash](#bash)
 - [bootstrap](#bootstrap)
 - [bot](#bot)
+- [bugbounty](#bugbounty)
 - [c](#c)
 - [chatgpt](#chatgpt)
 - [cli](#cli)
@@ -149,6 +150,10 @@
 ## bot 
 
 - [lykoss/lykos](https://github.com/lykoss/lykos) - Werewolf, the popular detective/social party game (a theme of Mafia)
+
+## bugbounty 
+
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 
 ## c 
 
