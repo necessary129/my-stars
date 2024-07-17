@@ -171,7 +171,7 @@
 - [ignis-sec/Pwdb-Public](https://github.com/ignis-sec/Pwdb-Public) - A collection of all the data i could extract from 1 billion leaked credentials from internet.
 - [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-- [vintaqe/NordDarkXfwm4](https://github.com/vintaqe/NordDarkXfwm4) - Flat Nord XFWM theme
+- [vintage2k/NordDarkXfwm4](https://github.com/vintage2k/NordDarkXfwm4) - Flat Nord XFWM theme
 - [jotyGill/privacy](https://github.com/jotyGill/privacy) - Diminishing Privacy And Centralization Of Power: The Problem
 - [dear-github/dear-github](https://github.com/dear-github/dear-github) - :incoming_envelope: An open letter to GitHub from the maintainers of open source projects
 
