@@ -157,7 +157,6 @@
 
 ## c 
 
-- [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [hexchat/hexchat](https://github.com/hexchat/hexchat) - GTK+ IRC client
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [atheme/atheme](https://github.com/atheme/atheme) - Atheme IRC Services
