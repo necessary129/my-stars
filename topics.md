@@ -429,7 +429,7 @@
 - [PaperMC/Starlight](https://github.com/PaperMC/Starlight) - Rewrites the light engine to fix lighting performance and lighting errors
 - [CaffeineMC/lithium-fabric](https://github.com/CaffeineMC/lithium-fabric) - A Fabric mod designed to improve the general performance of Minecraft without breaking things
 - [KaptainWutax/SeedCracker](https://github.com/KaptainWutax/SeedCracker) - Fast, Automatic In-Game Seed Cracker for Minecraft.
-- [CaffeineMC/sodium-fabric](https://github.com/CaffeineMC/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter
+- [CaffeineMC/sodium-fabric](https://github.com/CaffeineMC/sodium-fabric) - A Minecraft mod designed to improve frame rates and reduce micro-stutter
 
 ## mongodb 
 
@@ -460,7 +460,7 @@
 
 ## opengl 
 
-- [CaffeineMC/sodium-fabric](https://github.com/CaffeineMC/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter
+- [CaffeineMC/sodium-fabric](https://github.com/CaffeineMC/sodium-fabric) - A Minecraft mod designed to improve frame rates and reduce micro-stutter
 
 ## osint 
 
