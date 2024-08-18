@@ -50,6 +50,7 @@
 - [haskell](#haskell)
 - [html](#html)
 - [http](#http)
+- [https](#https)
 - [java](#java)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
@@ -333,6 +334,10 @@
 - [sonic182/aiosonic](https://github.com/sonic182/aiosonic) - A very fast Python asyncio http client
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
+
+## https 
+
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 
 ## java 
 
