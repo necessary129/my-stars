@@ -17,6 +17,7 @@
 - [bot](#bot)
 - [bugbounty](#bugbounty)
 - [c](#c)
+- [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
 - [cli](#cli)
 - [compiler](#compiler)
@@ -162,6 +163,10 @@
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [atheme/atheme](https://github.com/atheme/atheme) - Atheme IRC Services
 - [lutoma/xelix](https://github.com/lutoma/xelix) - 💻⚙ Xelix is a hobby Unix-like kernel with GNU userland for x86
+
+## c-plus-plus 
+
+- [MultiMC/Launcher](https://github.com/MultiMC/Launcher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
 
 ## chatgpt 
 
