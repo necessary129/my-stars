@@ -74,6 +74,7 @@
 - [monitoring](#monitoring)
 - [mysql](#mysql)
 - [nodejs](#nodejs)
+- [openai](#openai)
 - [opencv](#opencv)
 - [opengl](#opengl)
 - [osint](#osint)
@@ -468,6 +469,10 @@
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [chill117/proxy-lists](https://github.com/chill117/proxy-lists) - Node.js module and CLI tool to get proxies from publicly available proxy lists.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
+
+## openai 
+
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 
 ## opencv 
 
