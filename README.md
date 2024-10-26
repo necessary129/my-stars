@@ -123,7 +123,7 @@
 - [CaffeineMC/lithium-fabric](https://github.com/CaffeineMC/lithium-fabric) - A Fabric mod designed to improve the general performance of Minecraft without breaking things
 - [KaptainWutax/SeedCracker](https://github.com/KaptainWutax/SeedCracker) - Fast, Automatic In-Game Seed Cracker for Minecraft.
 - [mjtb49/LattiCG](https://github.com/mjtb49/LattiCG) - Reverses the internal seed(s) of JavaRandom given information on its output in the form of a system of inequalities on various Random calls. Works by reducing the problem to finding certain vectors in
-- [CaffeineMC/sodium-fabric](https://github.com/CaffeineMC/sodium-fabric) - A Minecraft mod designed to improve frame rates and reduce micro-stutter
+- [CaffeineMC/sodium](https://github.com/CaffeineMC/sodium) - A Minecraft mod designed to improve frame rates and reduce micro-stutter
 - [renyuneyun/Easer](https://github.com/renyuneyun/Easer) - User-defined explicit automation for Android
 - [gnembon/fabric-carpet](https://github.com/gnembon/fabric-carpet) - Fabric Carpet
 - [gnembon/carpetmod](https://github.com/gnembon/carpetmod) - Carpet Mod for Minecraft 1.13.2
