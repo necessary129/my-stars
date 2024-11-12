@@ -107,7 +107,7 @@
 
 - [shahidhk/google-sheets-password-manager](https://github.com/shahidhk/google-sheets-password-manager) - A shared password manager on Google Sheets that can save passwords encrypted with a shared secret. Encryption is done on the client side.
 - [caspervonb/toneofsorting](https://github.com/caspervonb/toneofsorting) - Tone of Sorting is an interactive visualisation of sorting algorithms with sound
-- [amirmohammedkk/amirmohammedkk.github.io](https://github.com/amirmohammedkk/amirmohammedkk.github.io) - a fifteen years old boy who loves coding create this.
+- [bitseal02/amirmohammedkk.github.io](https://github.com/bitseal02/amirmohammedkk.github.io) - a fifteen years old boy who loves coding create this.
 - [le4ker/personal-jekyll-theme](https://github.com/le4ker/personal-jekyll-theme) - { Personal } Jekyll theme
 
 ## Haskell 
@@ -260,6 +260,7 @@
 
 ## Rust 
 
+- [ibraheemdev/papaya](https://github.com/ibraheemdev/papaya) - A fast and ergonomic concurrent hash-table for read-heavy workloads.
 - [girlbossceo/conduwuit](https://github.com/girlbossceo/conduwuit) - a very cool, featureful fork of conduit
 - [SaberVM/SaberVM](https://github.com/SaberVM/SaberVM) - 
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
