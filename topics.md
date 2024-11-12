@@ -490,6 +490,7 @@
 
 ## others 
 
+- [ibraheemdev/papaya](https://github.com/ibraheemdev/papaya) - A fast and ergonomic concurrent hash-table for read-heavy workloads.
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 - [wkjagt/apple2_pendulum_clock](https://github.com/wkjagt/apple2_pendulum_clock) - Apple 2 full screen clock driven by the pendulum of my wall clock
 - [SaberVM/SaberVM](https://github.com/SaberVM/SaberVM) - 
@@ -560,7 +561,7 @@
 - [Chaosthebot/Chaos](https://github.com/Chaosthebot/Chaos) - A social coding experiment that updates its own code democratically.
 - [LeoIannacone/npm2deb](https://github.com/LeoIannacone/npm2deb) - tool to help debianize Node.js modules
 - [mammon-ircd/ircmatch](https://github.com/mammon-ircd/ircmatch) - python extension for fast IRC mask matching and collapsing
-- [amirmohammedkk/amirmohammedkk.github.io](https://github.com/amirmohammedkk/amirmohammedkk.github.io) - a fifteen years old boy who loves coding create this.
+- [bitseal02/amirmohammedkk.github.io](https://github.com/bitseal02/amirmohammedkk.github.io) - a fifteen years old boy who loves coding create this.
 - [andrewtryder/WolframAlpha](https://github.com/andrewtryder/WolframAlpha) - Limnoria / Supybot plugin to interface with Wolfram Alpha and display results on IRC.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [shahidhk/hasura-python](https://github.com/shahidhk/hasura-python) - Hasura API client library for python
