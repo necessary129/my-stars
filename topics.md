@@ -527,7 +527,7 @@
 - [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
 - [DirtyHairy/async-mutex](https://github.com/DirtyHairy/async-mutex) - A mutex for synchronizing async workflows in Javascript
 - [ScienceAsylum/Cannonball-Problem](https://github.com/ScienceAsylum/Cannonball-Problem) - An exploration of sphere stacking and packing.
-- [LordNoteworthy/al-khaser](https://github.com/LordNoteworthy/al-khaser) - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
+- [ayoubfaouzi/al-khaser](https://github.com/ayoubfaouzi/al-khaser) - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
 - [rfc1036/whois](https://github.com/rfc1036/whois) - Intelligent WHOIS client
 - [mjtb49/LattiCG](https://github.com/mjtb49/LattiCG) - Reverses the internal seed(s) of JavaRandom given information on its output in the form of a system of inequalities on various Random calls. Works by reducing the problem to finding certain vectors in
 - [gsuberland/amazon_3b1b_review_confidence](https://github.com/gsuberland/amazon_3b1b_review_confidence) - A user script that computes confidence percentages on Amazon reviews as per https://www.youtube.com/watch?v=8idr1WZ1A7Q
