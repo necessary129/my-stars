@@ -260,6 +260,8 @@
 
 ## Rust 
 
+- [stateright/stateright](https://github.com/stateright/stateright) - A model checker for implementing distributed systems.
+- [ozgunozerk/state-shift](https://github.com/ozgunozerk/state-shift) - Macros for implementing Type-State-Pattern on your structs and methods
 - [ibraheemdev/papaya](https://github.com/ibraheemdev/papaya) - A fast and ergonomic concurrent hash-table for read-heavy workloads.
 - [girlbossceo/conduwuit](https://github.com/girlbossceo/conduwuit) - a very cool, featureful fork of conduit
 - [SaberVM/SaberVM](https://github.com/SaberVM/SaberVM) - 
