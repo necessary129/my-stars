@@ -103,6 +103,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [vim](#vim)
+- [vpn](#vpn)
 - [vuejs](#vuejs)
 - [web](#web)
 - [windows](#windows)
@@ -741,6 +742,10 @@
 ## vim 
 
 - [8VIM/8VIM](https://github.com/8VIM/8VIM) - A Text Editor inside a keyboard, drawing it's inspiration from 8pen and Vim.
+
+## vpn 
+
+- [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these serv
 
 ## vuejs 
 
