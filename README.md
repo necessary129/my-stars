@@ -120,7 +120,7 @@
 - [CaffeineMC/hydrogen-fabric](https://github.com/CaffeineMC/hydrogen-fabric) - Things of which are too dangerous to put in Lithium.
 - [CaffeineMC/phosphor-fabric](https://github.com/CaffeineMC/phosphor-fabric) - A Fabric mod designed to dramatically improve the performance of Minecraft's lighting engine while fixing many bugs
 - [PaperMC/Starlight](https://github.com/PaperMC/Starlight) - Rewrites the light engine to fix lighting performance and lighting errors
-- [CaffeineMC/lithium-fabric](https://github.com/CaffeineMC/lithium-fabric) - A Fabric mod designed to improve the general performance of Minecraft without breaking things
+- [CaffeineMC/lithium](https://github.com/CaffeineMC/lithium) - A Fabric mod designed to improve the general performance of Minecraft without breaking things
 - [KaptainWutax/SeedCracker](https://github.com/KaptainWutax/SeedCracker) - Fast, Automatic In-Game Seed Cracker for Minecraft.
 - [mjtb49/LattiCG](https://github.com/mjtb49/LattiCG) - Reverses the internal seed(s) of JavaRandom given information on its output in the form of a system of inequalities on various Random calls. Works by reducing the problem to finding certain vectors in
 - [CaffeineMC/sodium](https://github.com/CaffeineMC/sodium) - A Minecraft mod designed to improve frame rates and reduce micro-stutter
