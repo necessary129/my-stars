@@ -34,6 +34,7 @@
 - [docker](#docker)
 - [dotfiles](#dotfiles)
 - [electron](#electron)
+- [facebook](#facebook)
 - [firefox](#firefox)
 - [flask](#flask)
 - [framework](#framework)
@@ -248,6 +249,10 @@
 ## electron 
 
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
+
+## facebook 
+
+- [jotyGill/privacy](https://github.com/jotyGill/privacy) - Diminishing Privacy And Centralization Of Power: The Problem
 
 ## firefox 
 
