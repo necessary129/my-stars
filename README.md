@@ -55,6 +55,7 @@
 
 ## C++ 
 
+- [XRobots/Ball-BIke](https://github.com/XRobots/Ball-BIke) - 
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux, Windows and macOS
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework
