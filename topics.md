@@ -75,6 +75,7 @@
 - [monitoring](#monitoring)
 - [mysql](#mysql)
 - [nodejs](#nodejs)
+- [numpy](#numpy)
 - [openai](#openai)
 - [opencv](#opencv)
 - [opengl](#opengl)
@@ -475,6 +476,10 @@
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [chill117/proxy-lists](https://github.com/chill117/proxy-lists) - Node.js module and CLI tool to get proxies from publicly available proxy lists.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
+
+## numpy 
+
+- [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 
 ## openai 
 
