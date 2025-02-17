@@ -139,7 +139,7 @@
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [DruhanShah/Chess-local](https://github.com/DruhanShah/Chess-local) - A program that simulates an online chess game but with no engine.
 - [AlynxZhou/gnome-shell-extension-inotch](https://github.com/AlynxZhou/gnome-shell-extension-inotch) - Add a useless notch to your screen.
-- [RealPeha/This-Repo-Has-1750-Stars](https://github.com/RealPeha/This-Repo-Has-1750-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1756-Stars](https://github.com/RealPeha/This-Repo-Has-1756-Stars) - Yes, it's true :purple_heart:
 - [Opensource-IIITH/Discord-CAS](https://github.com/Opensource-IIITH/Discord-CAS) - Tool for user verification via CAS on Discord servers.
 - [chill117/proxy-lists](https://github.com/chill117/proxy-lists) - Node.js module and CLI tool to get proxies from publicly available proxy lists.
 - [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
@@ -208,7 +208,7 @@
 - [jesopo/irctokens](https://github.com/jesopo/irctokens) - RFC1459 and IRCv3 protocol tokeniser library for python3
 - [jesopo/ircstates](https://github.com/jesopo/ircstates) - sans-I/O IRC session state parsing library
 - [jesopo/ircrobots](https://github.com/jesopo/ircrobots) - Asynchronous bare-bones IRC bot framework for python3
-- [sonic182/aiosonic](https://github.com/sonic182/aiosonic) - A very fast Python asyncio http client
+- [sonic182/aiosonic](https://github.com/sonic182/aiosonic) - A very fast Python asyncio http and websockets client
 - [progval/Supybot-plugins](https://github.com/progval/Supybot-plugins) - Collection of plugins for Supybot/Limnoria I wrote or forked.
 - [ScienceAsylum/Cannonball-Problem](https://github.com/ScienceAsylum/Cannonball-Problem) - An exploration of sphere stacking and packing.
 - [abhiTronix/vidgear](https://github.com/abhiTronix/vidgear) - A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features :fire:
