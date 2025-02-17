@@ -350,7 +350,7 @@
 ## http 
 
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [sonic182/aiosonic](https://github.com/sonic182/aiosonic) - A very fast Python asyncio http client
+- [sonic182/aiosonic](https://github.com/sonic182/aiosonic) - A very fast Python asyncio http and websockets client
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 
@@ -529,7 +529,7 @@
 - [akcube/kBLAS](https://github.com/akcube/kBLAS) - 
 - [vintage2k/NordDarkXfwm4](https://github.com/vintage2k/NordDarkXfwm4) - Flat Nord XFWM theme
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
-- [RealPeha/This-Repo-Has-1750-Stars](https://github.com/RealPeha/This-Repo-Has-1750-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1756-Stars](https://github.com/RealPeha/This-Repo-Has-1756-Stars) - Yes, it's true :purple_heart:
 - [heynatefox/cards-against-formality-services](https://github.com/heynatefox/cards-against-formality-services) - This repository creates a separation of concerns, for the backend microservices part of the application.
 - [heynatefox/cards-against-formality-pwa](https://github.com/heynatefox/cards-against-formality-pwa) - This repository creates a separation of concerns, for the front-end PWA part of the application.
 - [astei/krypton](https://github.com/astei/krypton) - A Fabric mod that optimizes the Minecraft networking stack and entity tracker.
@@ -639,7 +639,7 @@
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [sonic182/aiosonic](https://github.com/sonic182/aiosonic) - A very fast Python asyncio http client
+- [sonic182/aiosonic](https://github.com/sonic182/aiosonic) - A very fast Python asyncio http and websockets client
 - [progval/Supybot-plugins](https://github.com/progval/Supybot-plugins) - Collection of plugins for Supybot/Limnoria I wrote or forked.
 - [abhiTronix/vidgear](https://github.com/abhiTronix/vidgear) - A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features :fire:
 - [alephdata/aleph](https://github.com/alephdata/aleph) - Search and browse documents and data; find the people and companies you look for.
