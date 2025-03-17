@@ -680,7 +680,7 @@
 
 ## rust 
 
-- [girlbossceo/conduwuit](https://github.com/girlbossceo/conduwuit) - a very cool, featureful fork of conduit
+- [girlbossceo/conduwuit](https://github.com/girlbossceo/conduwuit) - a very cool, featureful fork of conduit (rust matrix homeserver)
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
 - [simd-lite/simd-json](https://github.com/simd-lite/simd-json) - Rust port of simdjson
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
@@ -701,7 +701,7 @@
 
 ## server 
 
-- [girlbossceo/conduwuit](https://github.com/girlbossceo/conduwuit) - a very cool, featureful fork of conduit
+- [girlbossceo/conduwuit](https://github.com/girlbossceo/conduwuit) - a very cool, featureful fork of conduit (rust matrix homeserver)
 - [matrix-construct/construct](https://github.com/matrix-construct/construct) - This is The Construct
 - [ergochat/ergo](https://github.com/ergochat/ergo) - A modern IRC server (daemon/ircd) written in Go.
 
