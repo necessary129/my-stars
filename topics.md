@@ -74,6 +74,7 @@
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
 - [mysql](#mysql)
+- [no-code](#no-code)
 - [nodejs](#nodejs)
 - [numpy](#numpy)
 - [openai](#openai)
@@ -470,6 +471,10 @@
 - [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [dimitri/pgloader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command!
+
+## no-code 
+
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 
 ## nodejs 
 
