@@ -28,6 +28,7 @@
 - [cybersecurity](#cybersecurity)
 - [database](#database)
 - [deep-learning](#deep-learning)
+- [development](#development)
 - [devops](#devops)
 - [discord](#discord)
 - [django](#django)
@@ -225,6 +226,11 @@
 ## deep-learning 
 
 - [Hironsan/BossSensor](https://github.com/Hironsan/BossSensor) - Hide screen when boss is approaching.
+
+## development 
+
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+- [atheme/atheme](https://github.com/atheme/atheme) - Atheme IRC Services
 
 ## devops 
 
