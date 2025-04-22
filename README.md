@@ -63,7 +63,7 @@
 - [RickdeJager/stegseek](https://github.com/RickdeJager/stegseek) - :zap: Worlds fastest steghide cracker, chewing through millions of passwords per second :zap:
 - [MultiMC/Launcher](https://github.com/MultiMC/Launcher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
 - [ayoubfaouzi/al-khaser](https://github.com/ayoubfaouzi/al-khaser) - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
-- [matrix-construct/construct](https://github.com/matrix-construct/construct) - This is The Construct
+- [matrix-construct/construct](https://github.com/matrix-construct/construct) - More Matrix Than Matrix
 - [jevolk/SPQF](https://github.com/jevolk/SPQF) - Senate & People of freenode - Democratic Channel Management System.
 - [wxFormBuilder/wxFormBuilder](https://github.com/wxFormBuilder/wxFormBuilder) - A wxWidgets GUI Builder
 - [jimloco/Csocket](https://github.com/jimloco/Csocket) - Asynchronous TCP socket classes
