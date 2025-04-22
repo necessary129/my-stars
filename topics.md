@@ -203,7 +203,7 @@
 ## cpp 
 
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux, Windows and macOS
-- [matrix-construct/construct](https://github.com/matrix-construct/construct) - This is The Construct
+- [matrix-construct/construct](https://github.com/matrix-construct/construct) - More Matrix Than Matrix
 - [wxFormBuilder/wxFormBuilder](https://github.com/wxFormBuilder/wxFormBuilder) - A wxWidgets GUI Builder
 
 ## cryptography 
@@ -713,7 +713,7 @@
 ## server 
 
 - [girlbossceo/conduwuit](https://github.com/girlbossceo/conduwuit) - a very cool, featureful fork of conduit (rust matrix homeserver)
-- [matrix-construct/construct](https://github.com/matrix-construct/construct) - This is The Construct
+- [matrix-construct/construct](https://github.com/matrix-construct/construct) - More Matrix Than Matrix
 - [ergochat/ergo](https://github.com/ergochat/ergo) - A modern IRC server (daemon/ircd) written in Go.
 
 ## shell 
