@@ -59,7 +59,6 @@
 - [javascript](#javascript)
 - [jekyll](#jekyll)
 - [jekyll-theme](#jekyll-theme)
-- [jquery](#jquery)
 - [json](#json)
 - [koa](#koa)
 - [kubernetes](#kubernetes)
@@ -392,10 +391,6 @@
 
 - [le4ker/personal-jekyll-theme](https://github.com/le4ker/personal-jekyll-theme) - { Personal } Jekyll theme
 
-## jquery 
-
-- [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple
-
 ## json 
 
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
@@ -664,7 +659,6 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [maubot/maubot](https://github.com/maubot/maubot) - A plugin-based Matrix bot system.
 - [twisted/towncrier](https://github.com/twisted/towncrier) - Manage the release notes for your project.
-- [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix homeserver written in Python/Twisted.
 - [elliotgao2/gain](https://github.com/elliotgao2/gain) - Web crawling framework  based on asyncio.
@@ -683,7 +677,7 @@
 ## react 
 
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encryption), share parts of it to global network of topics with deep AI integration
 
 ## rest-api 
 
@@ -760,7 +754,7 @@
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [Lattyware/massivedecks](https://github.com/Lattyware/massivedecks) - A comedy party game for PC, mobile & chromecast.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Make interlinked notes in private (E2E encryption), share parts of it to global network of topics with deep AI integration
 
 ## vim 
 
