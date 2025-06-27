@@ -55,6 +55,7 @@
 - [html](#html)
 - [http](#http)
 - [https](#https)
+- [information-gathering](#information-gathering)
 - [java](#java)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
@@ -364,6 +365,10 @@
 ## https 
 
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
+
+## information-gathering 
+
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 
 ## java 
 
