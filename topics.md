@@ -21,6 +21,7 @@
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [cli](#cli)
+- [cms](#cms)
 - [compiler](#compiler)
 - [computer-vision](#computer-vision)
 - [cpp](#cpp)
@@ -191,6 +192,10 @@
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [hasura/graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
+
+## cms 
+
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 
 ## compiler 
 
