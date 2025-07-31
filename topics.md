@@ -525,6 +525,7 @@
 
 ## others 
 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [XRobots/Ball-BIke](https://github.com/XRobots/Ball-BIke) - 
 - [stateright/stateright](https://github.com/stateright/stateright) - A model checker for implementing distributed systems.
 - [ozgunozerk/state-shift](https://github.com/ozgunozerk/state-shift) - Macros for implementing Type-State-Pattern on your structs and methods
