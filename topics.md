@@ -576,7 +576,7 @@
 - [mjtb49/LattiCG](https://github.com/mjtb49/LattiCG) - Reverses the internal seed(s) of JavaRandom given information on its output in the form of a system of inequalities on various Random calls. Works by reducing the problem to finding certain vectors in
 - [gsuberland/amazon_3b1b_review_confidence](https://github.com/gsuberland/amazon_3b1b_review_confidence) - A user script that computes confidence percentages on Amazon reviews as per https://www.youtube.com/watch?v=8idr1WZ1A7Q
 - [malwaredllc/byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
-- [shizmob/pydle](https://github.com/shizmob/pydle) - An IRCv3-compliant Python 3 IRC library.
+- [shizmob/pydle](https://github.com/shizmob/pydle) - (migrated to https://codeberg.org/shiz/pydle) An IRCv3-compliant Python 3 IRC library.
 - [bitbot-irc/bitbot-modules](https://github.com/bitbot-irc/bitbot-modules) - Community repository of vaguely useful plugins that are too niche for mainline BitBot
 - [chtd/psycopg2cffi](https://github.com/chtd/psycopg2cffi) - Port to cffi with some speed improvements
 - [Spydar007/Houdini](https://github.com/Spydar007/Houdini) - 
