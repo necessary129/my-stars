@@ -114,6 +114,7 @@
 - [vuejs](#vuejs)
 - [web](#web)
 - [windows](#windows)
+- [youtube](#youtube)
 
 ## ai 
 
@@ -799,6 +800,10 @@
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [hexchat/hexchat](https://github.com/hexchat/hexchat) - GTK+ IRC client
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
+
+## youtube 
+
+- [abhiTronix/vidgear](https://github.com/abhiTronix/vidgear) - A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features :fire:
 
 
 ## License
