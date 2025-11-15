@@ -351,7 +351,6 @@
 
 ## hacktoberfest 
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [simd-lite/simd-json](https://github.com/simd-lite/simd-json) - Rust port of simdjson
 - [woodruffw/steg86](https://github.com/woodruffw/steg86) - Hiding messages in x86 programs using semantic duals
 - [librenms/librenms](https://github.com/librenms/librenms) - Community-based GPL-licensed network monitoring system
