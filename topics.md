@@ -22,6 +22,7 @@
 - [chatgpt](#chatgpt)
 - [cli](#cli)
 - [cms](#cms)
+- [command-line](#command-line)
 - [compiler](#compiler)
 - [computer-vision](#computer-vision)
 - [cpp](#cpp)
@@ -202,6 +203,11 @@
 ## cms 
 
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
+
+## command-line 
+
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
+- [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
 
 ## compiler 
 
