@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [agent](#agent)
 - [ai](#ai)
 - [android](#android)
 - [ansible](#ansible)
@@ -117,6 +118,10 @@
 - [web](#web)
 - [windows](#windows)
 - [youtube](#youtube)
+
+## agent 
+
+- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
 ## ai 
 
