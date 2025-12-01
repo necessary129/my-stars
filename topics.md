@@ -573,7 +573,7 @@
 - [AlynxZhou/gnome-shell-extension-inotch](https://github.com/AlynxZhou/gnome-shell-extension-inotch) - Add a useless notch to your screen.
 - [zed-0xff/zsteg](https://github.com/zed-0xff/zsteg) - detect stegano-hidden data in PNG & BMP
 - [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
-- [akcube/kBLAS](https://github.com/akcube/kBLAS) - 
+- [akcube/kBLAS](https://github.com/akcube/kBLAS) - A BLAS-in-C benchmark + library with hand-written SIMD intrinsics and tuned Level-1 & Level-2 routines.
 - [vintage2k/NordDarkXfwm4](https://github.com/vintage2k/NordDarkXfwm4) - Flat Nord XFWM theme
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [RealPeha/This-Repo-Has-1756-Stars](https://github.com/RealPeha/This-Repo-Has-1756-Stars) - Yes, it's true :purple_heart:
