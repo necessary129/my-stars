@@ -97,6 +97,7 @@
 - [project-management](#project-management)
 - [python](#python)
 - [python3](#python3)
+- [rag](#rag)
 - [react](#react)
 - [rest-api](#rest-api)
 - [rust](#rust)
@@ -713,6 +714,10 @@
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple
+
+## rag 
+
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 
 ## react 
 
