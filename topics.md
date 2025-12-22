@@ -723,7 +723,7 @@
 ## react 
 
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything privately. Share it.
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything privately. Share.
 
 ## rest-api 
 
