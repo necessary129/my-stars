@@ -619,6 +619,7 @@
 - [turt2live/matrix-monitor-bot](https://github.com/turt2live/matrix-monitor-bot) - A bot to measure latency between homeservers, as perceived by users.
 - [LineageOS/android_device_motorola_condor](https://github.com/LineageOS/android_device_motorola_condor) - 
 - [caspervonb/toneofsorting](https://github.com/caspervonb/toneofsorting) - Tone of Sorting is an interactive visualisation of sorting algorithms with sound
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything. Share, chat, sell or collaborate. Privately.
 - [krombel/matrix-js-sdk](https://github.com/krombel/matrix-js-sdk) - Matrix Client-Server SDK for JavaScript
 - [krombel/matrix-websockets-proxy](https://github.com/krombel/matrix-websockets-proxy) - Websockets wrapper for matrix.org homeservers
 - [startcodein/IndicSoundex](https://github.com/startcodein/IndicSoundex) - Indian language soundex php package based on Santhosh Thottingal's algorithm.
@@ -724,7 +725,6 @@
 ## react 
 
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Learn and keep track of any topic
 
 ## rest-api 
 
