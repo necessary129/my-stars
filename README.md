@@ -45,7 +45,7 @@
 - [akcube/kBLAS](https://github.com/akcube/kBLAS) - A BLAS-in-C benchmark + library with hand-written SIMD intrinsics and tuned Level-1 & Level-2 routines.
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [hexchat/hexchat](https://github.com/hexchat/hexchat) - GTK+ IRC client
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
 - [rfc1036/whois](https://github.com/rfc1036/whois) - Intelligent WHOIS client
 - [atheme/atheme](https://github.com/atheme/atheme) - Atheme IRC Services
 - [cjdelisle/cjdns](https://github.com/cjdelisle/cjdns) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
