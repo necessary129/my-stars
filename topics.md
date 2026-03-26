@@ -36,6 +36,7 @@
 - [development](#development)
 - [devops](#devops)
 - [discord](#discord)
+- [distributed-systems](#distributed-systems)
 - [django](#django)
 - [docker](#docker)
 - [dotfiles](#dotfiles)
@@ -274,6 +275,10 @@
 ## discord 
 
 - [Opensource-IIITH/Discord-CAS](https://github.com/Opensource-IIITH/Discord-CAS) - Tool for user verification via CAS on Discord servers.
+
+## distributed-systems 
+
+- [stateright/stateright](https://github.com/stateright/stateright) - A model checker for implementing distributed systems.
 
 ## django 
 
@@ -559,7 +564,6 @@
 
 - [AFK-surf/fireclaw](https://github.com/AFK-surf/fireclaw) - Your personal AI assistant in a single binary.
 - [XRobots/Ball-BIke](https://github.com/XRobots/Ball-BIke) - 
-- [stateright/stateright](https://github.com/stateright/stateright) - A model checker for implementing distributed systems.
 - [ozgunozerk/state-shift](https://github.com/ozgunozerk/state-shift) - Macros for implementing Type-State-Pattern on your structs and methods
 - [ibraheemdev/papaya](https://github.com/ibraheemdev/papaya) - A fast and ergonomic concurrent hashmap for read-heavy workloads.
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
