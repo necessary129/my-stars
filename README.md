@@ -52,7 +52,7 @@
 - [mammon-ircd/ircmatch](https://github.com/mammon-ircd/ircmatch) - python extension for fast IRC mask matching and collapsing
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [lutoma/xelix](https://github.com/lutoma/xelix) - 💻⚙ Xelix is a hobby Unix-like kernel with GNU userland for x86
-- [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
+- [openssl/openssl](https://github.com/openssl/openssl) - General purpose TLS and crypto library
 
 ## C++ 
 
