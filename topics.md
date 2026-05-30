@@ -87,7 +87,6 @@
 - [numpy](#numpy)
 - [openai](#openai)
 - [opencv](#opencv)
-- [opengl](#opengl)
 - [osint](#osint)
 - [others](#others)
 - [penetration-testing](#penetration-testing)
@@ -503,9 +502,9 @@
 - [CaffeineMC/hydrogen-fabric](https://github.com/CaffeineMC/hydrogen-fabric) - Things of which are too dangerous to put in Lithium.
 - [CaffeineMC/phosphor-fabric](https://github.com/CaffeineMC/phosphor-fabric) - A Fabric mod designed to dramatically improve the performance of Minecraft's lighting engine while fixing many bugs
 - [PaperMC/Starlight](https://github.com/PaperMC/Starlight) - Rewrites the light engine to fix lighting performance and lighting errors
-- [CaffeineMC/lithium](https://github.com/CaffeineMC/lithium) - A Fabric mod designed to improve the general performance of Minecraft without breaking things
+- [CaffeineMC/lithium](https://github.com/CaffeineMC/lithium) - A Minecraft mod designed to improve the general performance of the game, without compromising functionality or mod compatibility
 - [KaptainWutax/SeedCracker](https://github.com/KaptainWutax/SeedCracker) - Fast, Automatic In-Game Seed Cracker for Minecraft.
-- [CaffeineMC/sodium](https://github.com/CaffeineMC/sodium) - A Minecraft mod designed to improve frame rates and reduce micro-stutter
+- [CaffeineMC/sodium](https://github.com/CaffeineMC/sodium) - A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter
 
 ## mongodb 
 
@@ -546,10 +545,6 @@
 - [abhiTronix/vidgear](https://github.com/abhiTronix/vidgear) - A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features :fire:
 - [Hironsan/BossSensor](https://github.com/Hironsan/BossSensor) - Hide screen when boss is approaching.
 
-## opengl 
-
-- [CaffeineMC/sodium](https://github.com/CaffeineMC/sodium) - A Minecraft mod designed to improve frame rates and reduce micro-stutter
-
 ## osint 
 
 - [alephdata/aleph](https://github.com/alephdata/aleph) - Search and browse documents and data; find the people and companies you look for.
@@ -557,6 +552,7 @@
 
 ## others 
 
+- [xrisk/factorio-commie-doge](https://github.com/xrisk/factorio-commie-doge) - Factorio mod: reskins the engineer as a comrade Shiba — 8-direction animated, player-color cap with gold star + hammer & sickle, water pistol when armed. ☭
 - [AFK-surf/fireclaw](https://github.com/AFK-surf/fireclaw) - Your personal AI assistant in a single binary.
 - [XRobots/Ball-BIke](https://github.com/XRobots/Ball-BIke) - 
 - [ozgunozerk/state-shift](https://github.com/ozgunozerk/state-shift) - Macros for implementing Type-State-Pattern on your structs and methods
