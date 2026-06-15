@@ -552,6 +552,7 @@
 
 ## others 
 
+- [FabricMC/mcsrc](https://github.com/FabricMC/mcsrc) - An online Minecraft source code viewer
 - [xrisk/factorio-commie-doge](https://github.com/xrisk/factorio-commie-doge) - Factorio mod: reskins the engineer as a comrade Shiba — 8-direction animated, player-color cap with gold star + hammer & sickle, water pistol when armed. ☭
 - [AFK-surf/fireclaw](https://github.com/AFK-surf/fireclaw) - Your personal AI assistant in a single binary.
 - [XRobots/Ball-BIke](https://github.com/XRobots/Ball-BIke) - 
