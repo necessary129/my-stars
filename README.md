@@ -297,6 +297,7 @@
 
 ## TypeScript 
 
+- [FabricMC/mcsrc](https://github.com/FabricMC/mcsrc) - An online Minecraft source code viewer
 - [heynatefox/cards-against-formality-services](https://github.com/heynatefox/cards-against-formality-services) - This repository creates a separation of concerns, for the backend microservices part of the application.
 - [heynatefox/cards-against-formality-pwa](https://github.com/heynatefox/cards-against-formality-pwa) - This repository creates a separation of concerns, for the front-end PWA part of the application.
 - [DirtyHairy/async-mutex](https://github.com/DirtyHairy/async-mutex) - A mutex for synchronizing async workflows in Javascript
