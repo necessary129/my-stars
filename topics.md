@@ -629,7 +629,6 @@
 - [LeoIannacone/npm2deb](https://github.com/LeoIannacone/npm2deb) - tool to help debianize Node.js modules
 - [mammon-ircd/ircmatch](https://github.com/mammon-ircd/ircmatch) - python extension for fast IRC mask matching and collapsing
 - [bitseal02/amirmohammedkk.github.io](https://github.com/bitseal02/amirmohammedkk.github.io) - a fifteen years old boy who loves coding create this.
-- [andrewtryder/WolframAlpha](https://github.com/andrewtryder/WolframAlpha) - Limnoria / Supybot plugin to interface with Wolfram Alpha and display results on IRC.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [shahidhk/hasura-python](https://github.com/shahidhk/hasura-python) - Hasura API client library for python
 - [Fusl/intrace](https://github.com/Fusl/intrace) - Multi-probe looking glass with simple but powerful configuration for probes and lookup types (BIRD, MTR, Ping & Traceroute pre-configured)
