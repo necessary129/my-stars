@@ -240,7 +240,6 @@
 - [elliotgao2/gain](https://github.com/elliotgao2/gain) - Web crawling framework  based on asyncio.
 - [Chaosthebot/Chaos](https://github.com/Chaosthebot/Chaos) - A social coding experiment that updates its own code democratically.
 - [LeoIannacone/npm2deb](https://github.com/LeoIannacone/npm2deb) - tool to help debianize Node.js modules
-- [andrewtryder/WolframAlpha](https://github.com/andrewtryder/WolframAlpha) - Limnoria / Supybot plugin to interface with Wolfram Alpha and display results on IRC.
 - [shahidhk/hasura-python](https://github.com/shahidhk/hasura-python) - Hasura API client library for python
 - [Hironsan/BossSensor](https://github.com/Hironsan/BossSensor) - Hide screen when boss is approaching.
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
