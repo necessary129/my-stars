@@ -201,7 +201,7 @@
 - [JohnHammond/katana](https://github.com/JohnHammond/katana) - Katana - Automatic CTF Challenge Solver in Python3
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/Quivr](https://github.com/The-Vibe-Company/Quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 - [sashs/Ropper](https://github.com/sashs/Ropper) - Display information about files in different file formats and find gadgets to build rop chains for different architectures (x86/x86_64, ARM/ARM64, MIPS, PowerPC, SPARC64). For disassembly ropper uses 
@@ -304,7 +304,7 @@
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [turt2live/matrix-dimension](https://github.com/turt2live/matrix-dimension) - An open source integration manager for matrix clients, like Element.
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
-- [linsa-io/linsa.io](https://github.com/linsa-io/linsa.io) - Work. Save. Share. Privately.
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Work. Save. Share. Privately.
 - [element-hq/element-web](https://github.com/element-hq/element-web) - A glossy Matrix collaboration client for the web.
 
 ## Vue 
