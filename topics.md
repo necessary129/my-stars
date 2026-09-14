@@ -448,6 +448,7 @@
 
 ## kubernetes 
 
+- [trickstercache/trickster](https://github.com/trickstercache/trickster) - Open Source HTTP Reverse Proxy Cache and Time Series DB Query Accelerator
 - [hasura/kubeformation](https://github.com/hasura/kubeformation) - Create declarative cluster specifications for your managed Kubernetes vendor (GKE, AKS)
 - [hasura/gitkube](https://github.com/hasura/gitkube) - Build and deploy docker images to Kubernetes using git push
 
