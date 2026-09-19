@@ -229,7 +229,7 @@
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [angusshire/greenhat](https://github.com/angusshire/greenhat) - :construction_worker: Quick hack for making real work happen.
 - [kwantam/GooSig](https://github.com/kwantam/GooSig) - GooSig: short signatures from RSA that hide the signer's RSA public key
-- [miguelgrinberg/python-socketio](https://github.com/miguelgrinberg/python-socketio) - Python Socket.IO server and client
+- [miguelgrinberg/python-socketio](https://github.com/miguelgrinberg/python-socketio) - Mirror of https://code.miguelgrinberg.com/miguelgrinberg/python-socketio
 - [miguelgrinberg/Flask-SocketIO](https://github.com/miguelgrinberg/Flask-SocketIO) - Socket.IO integration for Flask applications.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [maubot/maubot](https://github.com/maubot/maubot) - A plugin-based Matrix bot system.
