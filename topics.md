@@ -700,7 +700,7 @@
 - [bitbot-irc/bitbot](https://github.com/bitbot-irc/bitbot) - https://bitbot.dev | Python3 event-driven modular IRCv3 bot 🤖
 - [progval/Limnoria](https://github.com/progval/Limnoria) - A robust, full-featured, and user/programmer-friendly Python IRC bot, with many existing plugins.
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
-- [miguelgrinberg/python-socketio](https://github.com/miguelgrinberg/python-socketio) - Python Socket.IO server and client
+- [miguelgrinberg/python-socketio](https://github.com/miguelgrinberg/python-socketio) - Mirror of https://code.miguelgrinberg.com/miguelgrinberg/python-socketio
 - [miguelgrinberg/Flask-SocketIO](https://github.com/miguelgrinberg/Flask-SocketIO) - Socket.IO integration for Flask applications.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [maubot/maubot](https://github.com/maubot/maubot) - A plugin-based Matrix bot system.
