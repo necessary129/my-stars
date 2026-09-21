@@ -509,7 +509,7 @@
 
 ## mongodb 
 
-- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
+- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Mirror of borgmatic: Simple, configuration-driven backup software for servers and workstations
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
 
 ## monitoring 
@@ -519,7 +519,7 @@
 
 ## mysql 
 
-- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
+- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Mirror of borgmatic: Simple, configuration-driven backup software for servers and workstations
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [trickstercache/trickster](https://github.com/trickstercache/trickster) - Open Source HTTP Reverse Proxy Cache and Time Series DB Query Accelerator
 - [dimitri/pgloader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command!
@@ -671,7 +671,7 @@
 
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
-- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
+- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Mirror of borgmatic: Simple, configuration-driven backup software for servers and workstations
 - [dimitri/pgloader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command!
 
 ## privacy 
@@ -686,7 +686,7 @@
 ## python 
 
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
-- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
+- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Mirror of borgmatic: Simple, configuration-driven backup software for servers and workstations
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 - [nccgroup/featherduster](https://github.com/nccgroup/featherduster) - An automated, modular cryptanalysis tool; i.e., a Weapon of Math Destruction
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
@@ -784,7 +784,7 @@
 
 ## sqlite 
 
-- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
+- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Mirror of borgmatic: Simple, configuration-driven backup software for servers and workstations
 - [dimitri/pgloader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command!
 
 ## terminal 
