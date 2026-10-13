@@ -559,7 +559,7 @@
 - [XRobots/Ball-BIke](https://github.com/XRobots/Ball-BIke) - 
 - [ozgunozerk/state-shift](https://github.com/ozgunozerk/state-shift) - Macros for implementing Type-State-Pattern on your structs and methods
 - [ibraheemdev/papaya](https://github.com/ibraheemdev/papaya) - A fast and ergonomic concurrent hashmap for read-heavy workloads.
-- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - WinUI app for building smaller, customized Windows 11 images.
 - [wkjagt/apple2_pendulum_clock](https://github.com/wkjagt/apple2_pendulum_clock) - Apple 2 full screen clock driven by the pendulum of my wall clock
 - [SaberVM/SaberVM](https://github.com/SaberVM/SaberVM) - 
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
