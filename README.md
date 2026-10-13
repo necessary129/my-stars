@@ -7,6 +7,7 @@
 
 - [Assembly](#assembly)
 - [C](#c)
+- [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
 - [CoffeeScript](#coffeescript)
@@ -22,7 +23,6 @@
 - [PHP](#php)
 - [PLpgSQL](#plpgsql)
 - [Perl](#perl)
-- [PowerShell](#powershell)
 - [Python](#python)
 - [QML](#qml)
 - [Ruby](#ruby)
@@ -53,6 +53,10 @@
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [lutoma/xelix](https://github.com/lutoma/xelix) - 💻⚙ Xelix is a hobby Unix-like kernel with GNU userland for x86
 - [openssl/openssl](https://github.com/openssl/openssl) - General purpose TLS and crypto library
+
+## C# # 
+
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - WinUI app for building smaller, customized Windows 11 images.
 
 ## C++ 
 
@@ -191,10 +195,6 @@
 ## Perl 
 
 - [hexchat/hexchat-addons](https://github.com/hexchat/hexchat-addons) - Plugins and scripts made for HexChat
-
-## PowerShell 
-
-- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 
 ## Python 
 
