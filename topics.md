@@ -112,7 +112,6 @@
 - [sqlite](#sqlite)
 - [terminal](#terminal)
 - [testing](#testing)
-- [twitter](#twitter)
 - [typescript](#typescript)
 - [video](#video)
 - [vim](#vim)
@@ -793,10 +792,6 @@
 ## testing 
 
 - [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) - AFL++ is a state-of-the-art fuzzer, and #1 in benchmarks. It was originally based on AFL. Today it comes with qemu 5.1, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedule
-
-## twitter 
-
-- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
 ## typescript 
 
