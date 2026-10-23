@@ -111,6 +111,7 @@
 - [sql-server](#sql-server)
 - [sqlite](#sqlite)
 - [terminal](#terminal)
+- [termux](#termux)
 - [testing](#testing)
 - [typescript](#typescript)
 - [video](#video)
@@ -792,6 +793,10 @@
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [PacAnimal/shellshock](https://github.com/PacAnimal/shellshock) - A spaceshooter game in Bash
+
+## termux 
+
+- [stupside/castor](https://github.com/stupside/castor) - Point it at any web page and it finds the video, extracts the stream, transcodes it and casts in real time to your TV. It even burns subtitles….
 
 ## testing 
 
