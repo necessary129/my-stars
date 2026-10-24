@@ -40,6 +40,7 @@
 - [django](#django)
 - [docker](#docker)
 - [dotfiles](#dotfiles)
+- [downloader](#downloader)
 - [electron](#electron)
 - [facebook](#facebook)
 - [firefox](#firefox)
@@ -293,6 +294,10 @@
 
 - [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
 - [Mikaela/shell-things](https://github.com/Mikaela/shell-things) - [MIRROR] Dotfiles from time before I knew the word dotfiles, but the name has stuck.
+
+## downloader 
+
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 
 ## electron 
 
