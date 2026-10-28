@@ -348,7 +348,7 @@
 
 ## golang 
 
-- [stupside/castor](https://github.com/stupside/castor) - Point it at any web page and it finds the video, extracts the stream, transcodes it and casts in real time to your TV. It even burns subtitles….
+- [stupside/castor](https://github.com/stupside/castor) - Point it at any web page and it finds the video, transcodes it, and streams it to your TV in real time. It even burns in subtitles.
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP live media server and media proxy that allows to read, publish, proxy, record and playback real-time video and audio 
 - [hasura/gitkube](https://github.com/hasura/gitkube) - Build and deploy docker images to Kubernetes using git push
 
@@ -801,7 +801,7 @@
 
 ## termux 
 
-- [stupside/castor](https://github.com/stupside/castor) - Point it at any web page and it finds the video, extracts the stream, transcodes it and casts in real time to your TV. It even burns subtitles….
+- [stupside/castor](https://github.com/stupside/castor) - Point it at any web page and it finds the video, transcodes it, and streams it to your TV in real time. It even burns in subtitles.
 
 ## testing 
 
@@ -815,7 +815,7 @@
 
 ## video 
 
-- [stupside/castor](https://github.com/stupside/castor) - Point it at any web page and it finds the video, extracts the stream, transcodes it and casts in real time to your TV. It even burns subtitles….
+- [stupside/castor](https://github.com/stupside/castor) - Point it at any web page and it finds the video, transcodes it, and streams it to your TV in real time. It even burns in subtitles.
 - [abhiTronix/vidgear](https://github.com/abhiTronix/vidgear) - A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features :fire:
 
 ## vim 
