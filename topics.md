@@ -8,6 +8,7 @@
 - [agent](#agent)
 - [ai](#ai)
 - [android](#android)
+- [animation](#animation)
 - [ansible](#ansible)
 - [api](#api)
 - [atom](#atom)
@@ -136,6 +137,10 @@
 
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [8VIM/8VIM](https://github.com/8VIM/8VIM) - A Text Editor inside a keyboard, drawing it's inspiration from 8pen and Vim.
+
+## animation 
+
+- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 
 ## ansible 
 
