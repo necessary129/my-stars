@@ -6,6 +6,7 @@
 ## Contents
 
 - [agent](#agent)
+- [agentic-ai](#agentic-ai)
 - [ai](#ai)
 - [android](#android)
 - [animation](#animation)
@@ -127,6 +128,10 @@
 ## agent 
 
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
+
+## agentic-ai 
+
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 
 ## ai 
 
@@ -631,7 +636,7 @@
 - [turt2live/matrix-monitor-bot](https://github.com/turt2live/matrix-monitor-bot) - A bot to measure latency between homeservers, as perceived by users.
 - [LineageOS/android_device_motorola_condor](https://github.com/LineageOS/android_device_motorola_condor) - 
 - [caspervonb/toneofsorting](https://github.com/caspervonb/toneofsorting) - Tone of Sorting is an interactive visualisation of sorting algorithms with sound
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Work. Save. Share. Privately.
+- [gendotnew/ai](https://github.com/gendotnew/ai) - 
 - [krombel/matrix-js-sdk](https://github.com/krombel/matrix-js-sdk) - Matrix Client-Server SDK for JavaScript
 - [krombel/matrix-websockets-proxy](https://github.com/krombel/matrix-websockets-proxy) - Websockets wrapper for matrix.org homeservers
 - [startcodein/IndicSoundex](https://github.com/startcodein/IndicSoundex) - Indian language soundex php package based on Santhosh Thottingal's algorithm.
